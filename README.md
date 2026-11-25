@@ -1,0 +1,2 @@
+# Fpsff
+Acelerador de jogos
